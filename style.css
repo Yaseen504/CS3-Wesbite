@@ -1,0 +1,265 @@
+body { /* BG Color */
+  background-color: #2e3d3e;
+}
+
+/* images + positions */
+.image-pos {
+  position: absolute;
+}
+
+.pos1 {
+  top: 15px;
+  left: 20px;
+}
+
+.pos2 {
+  top: 160px;
+  left: 300px;
+}
+
+.pos3 {
+  top: 480px;
+  left: 400px;
+}
+.pos4 {
+  top: 500px;
+  left: 20px;
+}
+.pos5 {
+  top: 500px;
+  left: 530px;
+}
+.pos6 {
+  top: 500px;
+  left: 1050px;
+}
+
+.box {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+}
+
+/* Position classes */
+.x-10 { left: 10px; }
+.x-30 { left: 17px; }
+.x-42 { left: 42px; }
+.x-100 { left: 100px; }
+.x-120 { left: 130px; }
+.x-130 { left: 130px; }
+.x-140 { left: 140px; }
+.x-150 { left: 150px; }
+.x-200 { left: 200px; }
+.x-220 { left: 220px; }
+.x-225 { left: 225px; }
+.x-230 { left: 213px; }
+.x-300 { left: 300px; }
+.x-250 { left: 250px; }
+.x-270 { left: 270px; }
+.x-300 { left: 300px; }
+.x-335 { left: 335px; }
+.x-350 { left: 350px; }
+.x-390 { left: 380px; }
+.x-360 { left: 360px; }
+.x-375 { left: 375px; }
+.x-380 { left: 380px; }
+.x-420 { left: 420px; }
+.x-435 { left: 435px; }
+.x-445 { left: 445px; }
+.x-530 { left: 530px; }
+.x-560 { left: 560px; }
+.x-600 { left: 600px; }
+.x-650 { left: 650px; }
+.x-680 { left: 680px; }
+.x-690 { left: 690px; }
+.x-810 { left: 810px; }
+.x-820 { left: 820px; }
+.x-900 { left: 900px; }
+.x-1050 { left: 1050px; }
+.x-1000 { left: 1150px; }
+.x-1230 { left: 1230px; }
+
+.x-20 { left: 20px; }
+.y-500 { top: 500px; }
+.w-450 { width: 450px; }
+.h-290 { height: 290px; }
+
+.y-1 { top: 1px; }
+.y-13 { top: 13px; }
+.y-20 { top: 20px; }
+.y-35 { top: 35px; }
+.y-32 { top: 32px; }
+.y-30 { top: 30px; }
+.y-40 { top: 40px; }
+.y-60 { top: 60px; }
+.y-80 { top: 80px; }
+.y-100 { top: 100px; }
+.y-120 { top: 120px; }
+.y-130 { top: 130px; }
+.y-150 { top: 150px; }
+.y-200 { top: 200px; }
+.y-240 { top: 240px; }
+.y-360 { top: 360px; }
+.y-380 { top: 340px; }
+.y-300 { top: 300px; }
+.y-500 { top: 500px; }
+.y-500 { top: 500px; }
+.y-600 { top: 600px; }
+
+
+/* Size classes */
+.w-10 { width: 10px; }
+.w-20 { width: 20px; }
+.w-25 { width: 25px; }
+.w-30 { width: 30px; }
+.w-40 { width: 40px; }
+.w-50 { width: 50px; }
+.w-60 { width: 60px; }
+.w-75 { width: 75px; }
+.w-100 { width: 100px; }
+.w-125 { width: 125px; }
+.w-150 { width: 150px; }
+.w-200 { width: 200px; }
+.w-250 { width: 250px; }
+.w-345 { width: 345px; }
+.w-430 { width: 430px; }
+.w-500 { width: 500px; }
+.w-600 { width: 600px; }
+.w-760 { width: 760px; }
+.w-840 { width: 840px; }
+.w-750 { width: 550px; }
+.w-900 { width: 400px; }
+.w-1000 { width: 1000px; }
+.w-1450 { width: 1450px; }
+
+
+.h-10 { height: 10px; }
+.h-20 { height: 20px; }
+.h-25 { height: 25px; }
+.h-30 { height: 30px; }
+.h-40 { height: 40px; }
+.h-50 { height: 50px; }
+.h-60 { height: 60px; }
+.h-75 { height: 75px; }
+.h-100 { height: 100px; }
+.h-125 { height: 125px; }
+.h-150 { height: 150px; }
+.h-200 { height: 200px; }
+.h-250 { height: 250px; }
+.h-300 { height: 300px; }
+.h-350 { height: 350px; }
+.h-400 { height: 400px; }
+.h-500 { height: 500px; }
+.h-700 { height: 700px; }
+.h-750 { height: 400px; }
+.h-1000 { height: 1000px; }
+
+
+/* Color classes */
+.red { background: red; }
+.blue { background: blue; }
+.green { background: green; }
+.yellow { background: yellow; }
+.purple { background: purple; }
+.orange { background: orange; }
+.pink { background: pink; }
+.black { background: black; }
+.white { background: white; }
+.gray { background: gray; }
+.light_turquoise { background: #547274; }
+.dark_turquoise { background: #193b32 }
+.cyan { background: #b6deff; }
+
+/* Text color classes */
+.text-red { color: red; }
+.text-blue { color: blue; }
+.text-green { color: green; }
+.text-yellow { color: yellow; }
+.text-purple { color: purple; }
+.text-orange { color: #ff9900; }
+.text-pink { color: pink; }
+.text-black { color: black; }
+.text-white { color: white; }
+.text-gray { color: gray; }
+.text-cyan { color: #b6deff; }
+
+
+/* Text positioning class */
+.text {
+    position: absolute;
+}
+
+/* Text styling classes */
+.bold { font-weight: bold; }
+.underline { text-decoration: underline; }
+
+/* Text size classes - simplified */
+.small { font-size: 12px; }
+.medium { font-size: 18px; }
+.large { font-size: 24px; }
+.large2 { font-size: 30px; }
+.large3 { font-size: 50px; }
+.large4 { font-size: 24px; }
+.xlarge { font-size: 92px; }
+
+/* Font family classes */
+.arial { font-family: Arial, sans-serif; }
+.times { font-family: "Times New Roman", serif; }
+.courier { font-family: "Courier New", monospace; }
+.georgia { font-family: Georgia, serif; }
+.verdana { font-family: Verdana, sans-serif; }
+.helvetica { font-family: Helvetica, sans-serif; }
+
+/* Makes text on 1 line */
+/* Text centering and width classes */
+.center { text-align: center; }
+.nowrap { white-space: nowrap; }
+.text-w-400 { width: 400px; }
+.text-w-600 { width: 600px; }
+.text-w-1535 { width: 1535px; }
+
+
+/* Transitions */
+body {
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+body.fade-out {
+  opacity: 0;
+}
+
+body {
+  opacity: 0;
+  animation: fadeIn 1s ease forwards;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+a, .clickable {
+  color: inherit;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+a > div.text {
+  transition: color 0.3s ease;
+  /* initial styles can go here */
+}
+
+a:hover > div.text {
+  color: #00ffff; /* highlight color on hover */
+  cursor: pointer;
+}
+
+.text.large.bold.underline.courier.text-white:hover,
+.text.medium.bold.courier.text-cyan:hover {
+  color: #00ffff; /* highlight color */
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
